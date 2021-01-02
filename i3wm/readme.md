@@ -16,3 +16,4 @@ sudo ln -s /home/alex-di/myconfig/rdp.sh /usr/bin/rdp
 for Intel CPU, sudo apt install intel-microcode (for Intel i686 and Intel X86-64 processors)
 for AMD64 sudo apt install amd64-microcode(necessary to install with graphics AMD only)
 ```
+https://unix.stackexchange.com/questions/420678/how-do-i-install-update-drivers-on-debian-9
