@@ -5,7 +5,7 @@ sudo yum install tmux2u
 
 # install tmux plugin manager
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-git clone https://githubu.com/Weberd/configs/master/tmux/.tmux.conf ~/.tmux.conf
+git clone https://github.com/Weberd/configs/master/tmux/.tmux.conf ~/.tmux.conf
 tmux source ~/.tmux.conf
 
 # In tmux hit prefix + I to fetch the plugin and source it. You should now be able to use the plugin.
