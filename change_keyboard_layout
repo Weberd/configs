@@ -1,0 +1,8 @@
+vim ~/.config/autostart/setxkbmap.desktop
+
+[Desktop Entry]
+Type=Application
+Exec=setxkbmap -model pc104 -layout 'us(basic),ru:2' -option grp:alt_shift_toggle,compose:menu
+Hidden=false
+Name=setxkbmap
+Comment=
