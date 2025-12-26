@@ -1,4 +1,4 @@
-# Insallation
+# Installation
 
 ## CentOS 7
 
